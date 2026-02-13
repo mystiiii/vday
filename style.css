@@ -38,7 +38,7 @@ html {
     /* Accent color with low opacity so photos stand out */
     text-align: center;
     line-height: 0.9;
-    z-index: 0;
+    z-index: 100;
     pointer-events: none;
     width: 100%;
     animation: textFadeIn 2s ease-out forwards;
